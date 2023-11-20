@@ -1,0 +1,12 @@
+building, building_Orig, jpg
+Film, Film_orig, tif
+fish, fish_orig, tif
+HP_Jouets_1, HP_Jouets_Orig, JPG
+HP_Jouets_2, HP_Jouets_Orig, JPG
+HP_Jouets_3, HP_Jouets_Orig, JPG
+HP_Jouets_4, HP_Jouets_Orig, JPG
+HP_Jouets_5, HP_Jouets_Orig, JPG
+HP-Macbeth_1, HP-Macbeth_Orig, JPG
+HP-Macbeth_2, HP-Macbeth_Orig, JPG
+Nature, Nature_Orig, tif
+Notredam_1, Notredam_orig, jpg
